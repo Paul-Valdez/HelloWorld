@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my first time developing an Android app. Also, my first time using Android Studio and Git/GitHub. It was a small challenge to get everything setup and working seamlessly.
 
 ## License
 
